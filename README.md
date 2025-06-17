@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💩 GetSh!tDone
 
-## Getting Started
+Tired of to-do apps that look like they were designed by a sleepy intern in 2005?  
+**GetSh!tDone** is here to slap your productivity into gear.
 
-First, run the development server:
+Plan your **today**, prep for **tomorrow**, and crush your **weekend** like a true multitasking ninja.  
+Scribble digital sticky notes like your desk depends on it. Organize chaos into tidy lists like a task wizard.
+
+---
+
+## 🚨 What is This Madness?
+
+**GetSh!tDone** is your no-BS daily planner + sticky notes + personalized to-do manager.  
+It doesn’t track your habits, suggest yoga, or remind you to drink water.  
+It just helps you **get. sh!t. done.** Period.
+
+---
+
+## ⚙️ Features That Slap
+
+- 🗓 **Today, Tomorrow, Weekend** planner – 'Cause life doesn’t stop on Friday.
+- 🗒 **Sticky Wall** – Digital post-it notes for your brain dumps and random sparks of genius.
+- 🗂 **Custom Lists** – Group your mess into "Work", "Personal", "Side Hustle", or "Procrastination Pile".
+- 🌈 **Clean AF Interface** – No ads, no distractions, just you and your responsibilities.
+- 📱 **Mobile-Friendly** – For when you're trying to be productive on the toilet.
+
+---
+
+## 🧪 Tech Behind the Magic
+
+- **Frontend:** Next.js  
+- **Styling:** Tailwind CSS  
+- **Animation:** Framer Motion / GSAP  
+- **Backend:** Node / Express / MongoDB
+- **Auth / Storage:** JWT / LocalStorage
+
+---
+
+## 🛠 Setup & Install (for devs who give a sh!t)
 
 ```bash
+git clone https://github.com/your-username/getshitdone.git
+cd getshitdone
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📸 Screenshots
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧙‍♂️ Contributing
 
-To learn more about Next.js, take a look at the following resources:
+Wanna help improve the Sh!t?
+- Fork it. Fix it. Pull it.
+- Just don't break it.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📜 License
 
-## Deploy on Vercel
+MIT — Do whatever, just don’t sue me if you suddenly become wildly successful and productive.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built with caffeine, chaos, and questionable life choices.
+Now go GetSh!tDone 🫡
